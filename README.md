@@ -1,7 +1,23 @@
-# FullStack Social Media App
+# NextTry - Social Media Application
 
-Build a COMPLETE Fullstack Responsive MERN App with Auth, Likes, Dark Mode | React, MongoDB, MUI
+A full-stack MERN social media platform built with React.js, Node.js, Express.js, and MongoDB.
 
-Video: https://www.youtube.com/watch?v=K8YELRmUb5o
+## Features
+- User authentication and profile management
+- Create and share posts with images
+- Responsive design with Material-UI
+- Dark/light theme switching
+- Drag-and-drop image uploads
+- Secure backend with JWT authentication
 
-For all related questions and discussions about this project, check out the discord: https://discord.gg/2FfPeEk2mX
+## Technologies Used
+- Frontend:React.js, Material-UI, Redux Toolkit, React Router
+- Backend: Node.js, Express.js, MongoDB, JWT, Multer
+
+
+## Installation & Setup
+1. Clone the repository
+2. Install dependencies: `npm install` (in both client and server folders)
+3. Start the server: `npm start` (in server folder)
+4. Start the client: `npm start` (in client folder)
+
